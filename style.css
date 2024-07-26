@@ -14,10 +14,11 @@ font-size: 30px; color: aliceblue;
 
 section{
     font-size: 20px;
+    
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-content: stretch;
     align-items: center;
     justify-content: center;
-
+}
