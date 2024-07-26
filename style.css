@@ -10,7 +10,10 @@ align-items: center;
 justify-content: space-around;
 padding: 0px;
 font-size: 30px; color: aliceblue;
-
+p {
+    font-size: 16px;
+    color: rgb(15, 15, 15);
+  }
 
 section{
 
@@ -19,8 +22,5 @@ section{
     flex-wrap: wrap;
     align-content: stretch;
     justify-content: center;
+
 }
-p {
-    font-size: 16px;
-    color: rgb(15, 15, 15);
-  }
